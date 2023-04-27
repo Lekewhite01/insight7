@@ -1,0 +1,10 @@
+docx2txt==0.8
+Flask==2.1.0
+flask_cors==3.0.10
+langchain==0.0.103
+openai==0.26.5
+pydantic==1.9.2
+python-dotenv==1.0.0
+tenacity==8.1.0
+gunicorn
+faiss-cpu
